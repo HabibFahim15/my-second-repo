@@ -1,6 +1,10 @@
 body{
-  background-color:aquamarine;
+  background-color:lightblue;
+}
+h1{
+  text-align: center;
+  color: rgb(29, 120, 255);
 }
 p{
-  color: crimson;
+  color: rgb(98, 0, 255);
 }
